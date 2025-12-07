@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995410380657",
+    "project_id": "event-fyp",
+    "storage_bucket": "event-fyp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995410380657:android:5d0de5ef050c3e8351d8d0",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpOVE3KWqXrL3N51o4xpGZkhXDBF281U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
